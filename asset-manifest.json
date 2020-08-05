@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MyFirstReactApp-RecipeFinder/static/css/main.4c48667a.chunk.css",
+    "main.js": "/MyFirstReactApp-RecipeFinder/static/js/main.25ec0bf1.chunk.js",
+    "main.js.map": "/MyFirstReactApp-RecipeFinder/static/js/main.25ec0bf1.chunk.js.map",
+    "runtime-main.js": "/MyFirstReactApp-RecipeFinder/static/js/runtime-main.334025ea.js",
+    "runtime-main.js.map": "/MyFirstReactApp-RecipeFinder/static/js/runtime-main.334025ea.js.map",
+    "static/js/2.106f2ee7.chunk.js": "/MyFirstReactApp-RecipeFinder/static/js/2.106f2ee7.chunk.js",
+    "static/js/2.106f2ee7.chunk.js.map": "/MyFirstReactApp-RecipeFinder/static/js/2.106f2ee7.chunk.js.map",
+    "index.html": "/MyFirstReactApp-RecipeFinder/index.html",
+    "precache-manifest.cccb1c11ac52b214451834d3d3f01182.js": "/MyFirstReactApp-RecipeFinder/precache-manifest.cccb1c11ac52b214451834d3d3f01182.js",
+    "service-worker.js": "/MyFirstReactApp-RecipeFinder/service-worker.js",
+    "static/css/main.4c48667a.chunk.css.map": "/MyFirstReactApp-RecipeFinder/static/css/main.4c48667a.chunk.css.map",
+    "static/js/2.106f2ee7.chunk.js.LICENSE.txt": "/MyFirstReactApp-RecipeFinder/static/js/2.106f2ee7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.334025ea.js",
+    "static/js/2.106f2ee7.chunk.js",
+    "static/css/main.4c48667a.chunk.css",
+    "static/js/main.25ec0bf1.chunk.js"
+  ]
+}
